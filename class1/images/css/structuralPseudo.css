@@ -1,0 +1,14 @@
+/* p:first-child{
+background-color: blue;
+} */
+
+
+
+/* p:last-child{
+    background-color: green;
+} */
+
+
+p:nth-child(odd){
+    background-color: yellow;
+}

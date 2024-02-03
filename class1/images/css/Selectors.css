@@ -1,0 +1,35 @@
+*{
+    background-image: url(../WallPaper.jpg);
+}
+
+/* body{
+    background-image: url(../WallPaper.jpg);
+} */
+
+
+#man {
+    background-color: antiquewhite;
+    font-style: oblique;
+    border: 10px solid red;
+}
+
+#nam{
+    background-color: azure;
+}
+
+
+.tan {
+    font-family:cursive;
+    background-color:yellowgreen;
+}
+
+
+h1{
+
+    border: 2px solid violet;
+}
+
+
+#san,.sun,h3{
+    background-color: sandybrown;
+}

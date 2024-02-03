@@ -1,0 +1,148 @@
+#hh{
+    border: 0px solid purple;
+    width: 1420px;
+    height:900px;
+    position: absolute;
+    top: 1690px;
+    left: 50px;
+}
+
+.h1{
+    border: 0px solid green;
+    height: 430px;
+    display: flex;
+    
+}
+
+#h11{
+    position: relative;
+    top:40px;
+}
+
+#hh11{
+    border: 0px solid red;
+    height: 400px;
+    width: 759px;
+    position: relative;
+    
+    
+    
+}
+
+#hh12{
+    border: 0px solid red;
+    height: 400px;
+    width: 759px;
+}
+
+#hh21{
+    border: 0px solid red;
+    height: 400px;
+    width: 759px;
+}
+
+#hh22{
+    border: 0px solid red;
+    height: 400px;
+    width: 759px;
+}
+
+
+#hh123{
+    border: 0px solid yellow;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 3.5px;
+    font-size: 25px;
+    position: relative;
+    top: 30px;
+    left: 5px;
+    color: rgb(105, 100, 100);
+}
+
+
+
+#hh124{
+    border: 0px solid yellow;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 55px;
+
+    position: relative;
+    top: -10px;
+    left: 5px;
+    
+}
+
+#hh125{
+    border: 0px solid yellow;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    top: -50px;
+}
+
+#hh126{
+    border: 2px solid black;
+    border-radius: 3px ;
+    height: 50px;
+    width: 200px;
+    position: relative;
+    top: 5px;
+    
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+#hh223{
+    border: 0px solid yellow;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 3.5px;
+    font-size: 25px;
+    position: relative;
+    top: 30px;
+    left: 5px;
+    color: rgb(105, 100, 100);
+}
+
+
+
+#hh224{
+    border: 0px solid yellow;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 55px;
+
+    position: relative;
+    top: -10px;
+    left: 5px;
+    
+}
+
+#hh225{
+    border: 0px solid yellow;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    top: -50px;
+}
+
+#hh226{
+    border: 2px solid black;
+    border-radius: 3px ;
+    height: 50px;
+    width: 200px;
+    position: relative;
+    top: 5px;
+    
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+

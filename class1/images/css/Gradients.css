@@ -1,0 +1,17 @@
+nav{
+
+    font-weight: 10px;
+    text-align: center;
+    border: 2px solid black;
+    height: 100vh;
+    /* background-image: linear-gradient(black ,white ,aqua ,blue ,red); */
+    /* background-image: repeating-linear-gradient(blue 90%,red 90%,pink,green 90%,yellow); */
+
+
+
+    /* background-image: radial-gradient(violet,indigo,blue,black); */
+    /* background-image: repeating-radial-gradient(violet 80%,blue,red,pink); */
+
+
+
+}

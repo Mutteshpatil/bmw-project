@@ -1,0 +1,22 @@
+/* div p{
+    background-color: bisque;
+    font-family: fantasy;
+
+} */
+
+
+/* div>h1,div>h2{
+    background-color: rgb(231, 194, 47);
+} */
+
+/* 
+div+p{
+    background-color: mediumseagreen;
+    color: bisque;
+} */
+
+
+
+div~h1{
+    background-color: lime;
+}

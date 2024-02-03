@@ -1,0 +1,49 @@
+fieldset{
+    border: 10px solid BLUE;
+    width: 500px;
+}
+
+
+h1{
+    border: 10px solid magenta;
+    text-align: center;
+    width:300px
+    
+}
+
+#man{
+    border: 10px solid blue;
+    border-top: 0px;
+    width: 500px;
+    height: 430px;
+}
+
+
+#nan{
+    border: 10px solid blue;
+    border-top:0px;
+    width:280px;
+    height:300px;
+    
+}
+
+nav{
+    border: 10px solid blue;
+    border-top:0px;
+    width:220px;
+    height:250px;
+    background-image: url(../pizza.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+nav:hover{
+   background-image: url(../burger.jpg);
+  
+  
+   
+}
+
+
+    

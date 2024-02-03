@@ -1,0 +1,117 @@
+#kkk{
+    border: 1px solid rgb(185, 187, 185);
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+
+    height: 600px;
+    width: 1520px;
+    position: absolute;
+    top: 2600px;
+    left: 0px;
+}
+
+#kk1{
+    border: 0px solid black;
+    width: 1420px;
+    height: 80px;
+    position: relative;
+    left: 50px;
+    display: flex;
+}
+
+#kk11{
+    width: 200px;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 1px;
+}
+
+#kk12{
+    font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+
+#kk2{
+    border: 0px solid black;
+    background-color: #f6f6f6;
+    height: 450px;
+    width: 1520px;
+    display: flex;
+    position: relative;
+    left: 0px;
+
+}
+
+
+.kk21{
+    border: 0px solid black;
+    position: relative;
+    top: 70px;
+    left: 50px;
+    height: 300px;
+    width: 380px;
+}
+
+.kk3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+
+.kk44{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    word-spacing: 4px;
+}
+
+#kk34{
+    border: 0px solid green;
+    height: 50px;
+    width: 1520px;
+    position: absolute;
+    top: 380px;
+    left: 50px;
+    font-size: 20px;
+    letter-spacing: 8px;
+}
+
+#kk4{
+    border: 0px solid green;
+    height: 50px;
+    width: 1519px;
+    position: absolute;
+    top: 3130px;
+    left: 0px;
+    display: flex;
+    align-items: center;
+}
+
+#kk41{
+    border: 0px solid red;
+    position: relative;
+    left: 50px;
+    width: 300px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+}
+
+
+
+#kk42{
+    border: 0px solid red;
+    display: flex;
+    position: relative;
+    left: 500px;
+   
+}
+
+
+.kk4123{
+    border: 0px solid black;
+    width: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 15px;
+}

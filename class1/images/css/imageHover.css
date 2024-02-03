@@ -1,0 +1,12 @@
+nav{
+    height: 950px;
+    border: 10px solid green;
+    background-image: url(../horse.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav:hover{
+    background-image: url(../elephant.jpg);
+   
+}

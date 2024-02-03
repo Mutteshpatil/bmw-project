@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <form action="https://www.google.com/" method="post">
+        <table>
+            <tr>
+                <td><label for="first">First Name:</label></td>
+                <td><input type="text" name="first" placeholder="Enter your Name" required></td>
+            </tr>
+
+            <tr>
+                <td><label for="last">Last Name</label></td>
+                <td><input type="text" name="last" placeholder="Enter last name" required></td>
+            </tr>
+
+            <tr>
+                <td><label for="dob">DOB:</label></td>
+                <td><input type="date" name="dob" id=""></td>
+            </tr>
+
+            <tr>
+                <td><label for="mail">Email:</label></td>
+                <td><input type="email" name="mail" id="" placeholder="mail Id"></td>
+            </tr>
+
+            <tr>
+                <td><label for="psw">PSW:</label></td>
+                <td><input type="password" name="psw"></td>
+            </tr>
+
+            <tr>
+                <td><label for="phno">Phn No:</label></td>
+                <!-- if we give number  as type it won't take maxlength -->
+                <!-- <td><input type="tel" name="phno" id="" maxlength="10" required pattern="[a-zA-Z]"></td> -->
+                <td><input type="number" name="phno" id=""  min="5" max="20" step="0.5"></td>
+            </tr>
+
+            <tr>
+                <td><label for="addr">Address:</label></td>
+                <td><textarea name="addr" id="" cols="30" rows="10" placeholder="Type your address"></textarea></td>
+            </tr>
+
+            <tr>
+                <td><label for="file">Upload:</label></td>
+                <td><input type="file" name="file" id=""></td>
+            </tr>
+
+            <tr>
+                <td><label for="gen">Gender</label></td>
+                <td><input type="radio" name="gen" id="">Female <br> <input type="radio" name="gen" id="">Male</td>
+            </tr>
+
+            <tr>
+                <td><label for="lang">Languages Known:</label></td>
+                <td><input type="checkbox" name="lang" id="">Kannada <input type="checkbox" name="lang" id="">English <input type="checkbox" name="lang" id="">Hindi</td>
+            </tr>
+
+            <tr>
+                <td><label for="qual">Qualification:</label></td>
+                <td><select name="qual" id="">
+                    <option value="Select">Select</option>
+                    <option value="CSE">CSE</option>
+                    <option value="CIVIL">CIVIL</option>
+                    <option value="EC">EC</option>
+                </select></td>
+            </tr>
+
+            <tr>
+                <td><input list="browser" name="" id=""></td>
+                <td><datalist id="browser">
+                   <option value="grapes"></option>
+                   <option value="apple"></option>
+                   <option value="Orange"></option>
+                   <option value="Banana"></option>
+                   <option value="Pomogranate"></option>
+                </datalist></td>
+            </tr>
+
+            <tr>
+                <td><input type="button" value="Submit1"><input type="submit" value="Submit2"><input type="reset" value="Cancel"></td>
+            </tr>
+
+            <tr>
+                <td><a href="https://www.google.com/"><input type="search" name="" id=""></a></td>
+            </tr>
+                
+        </table>
+    </form>
+</body>
+</html>

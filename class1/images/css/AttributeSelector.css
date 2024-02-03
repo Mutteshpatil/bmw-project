@@ -1,0 +1,27 @@
+[target="man"]{
+    background-color:violet;
+}
+
+
+[title~="man"]{
+    background-color: lightcoral;
+}
+
+
+/* [class|="san"]{
+    background-color: hotpink;
+} */
+
+[class^="san"]{
+    background-color:olive;
+}
+
+
+[class$="san"]{
+    background-color: hotpink;
+}
+
+
+[class*="s"]{
+    background-color:blueviolet;
+}

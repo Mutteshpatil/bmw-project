@@ -1,0 +1,42 @@
+#g1{
+    border: 0px solid blue;
+    background-image: url(../class1/images/css/BMW\ 7.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    opacity: 0.9px;
+    height:450px;
+    width: 1519px;
+    position: absolute;
+    top: 1220px;
+    left: 0px;
+}
+
+.g12{
+    border: 0px solid yellow;
+    height: 60px;
+    width: 800px;
+    position: relative;
+    top: 230px;
+    left: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#f9f9f9;
+    font-size: 40px;
+    
+}
+
+#g13{
+    border: 2px solid #f9f9f9;
+    border-radius: 3px ;
+    height: 50px;
+    width: 300px;
+    position: relative;
+    top: 260px;
+    left: 80px;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#f9f9f9;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
